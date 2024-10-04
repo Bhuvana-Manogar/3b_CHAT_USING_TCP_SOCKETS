@@ -33,6 +33,8 @@ while True:
 
 ```
 ## OUPUT
+![Screenshot 2024-10-04 110458](https://github.com/user-attachments/assets/f6fc440c-f713-4d33-b236-4ea05f7b9354)
+
 ![Screenshot 2024-10-02 115108](https://github.com/user-attachments/assets/0f6605c1-af6b-4d89-a092-9723bdf1936b)
 
 ## RESULT
